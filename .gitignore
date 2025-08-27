@@ -1,5 +1,5 @@
 venv
 .env
 log 
-test_MONGO_DB
-artifacts
+*.test_MONGO_DB
+*.artifacts
