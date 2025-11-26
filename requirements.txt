@@ -2,3 +2,6 @@ python-dotenv
 pandas 
 numpy 
 Scikit-learn
+pymongo[srv]==4.7
+certifi
+pymongo
